@@ -9,7 +9,7 @@ void main() {
             child: Text(
               "Cutie",
               style: TextStyle(
-                color: Colors.blue,
+                color: Colors.pink,
                 fontSize: 25,
               ),
             ),
